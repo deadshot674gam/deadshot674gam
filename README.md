@@ -2,18 +2,18 @@
 
 
 ### Hi there, I'm Divyanshu 👋
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br />
 
 ## I'm a Student and a Software Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to improve and code more and more
+- 🌱 I’m currently Learning Machine learning
+- 👯 I’m looking to improve and code, more and more
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun Fact: I love to cook 
 
 <br />
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 ### Connect with me:
 
