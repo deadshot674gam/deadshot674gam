@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to improve and code, more and more
-- 🥅 Goals: Create more to Open Source projects
+- 🥅 Goals: Create more Open Source projects
 - ⚡ Fun Fact: I love to cook 
 
 <br />
