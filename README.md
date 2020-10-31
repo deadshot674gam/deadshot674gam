@@ -2,8 +2,8 @@
 
 
 ### Hi there, I'm Divyanshu 👋
-<img align='right' src="https://github.com/deadshot674gam/INT404/blob/master/goku-learning.png" width="230">
-<!--<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">-->
+<!--<img align='right' src="https://github.com/deadshot674gam/INT404/blob/master/goku-learning.png" width="230">-->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br />
 
 ## I'm a Student and a Software Developer!!
