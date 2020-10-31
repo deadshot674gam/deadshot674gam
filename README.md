@@ -37,10 +37,10 @@
 [<img align="left" alt="Android Development" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />]()
 [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]()
-[<img align="left" alt="Flask" width="26px" src="ihttps://www.vectorlogo.zone/util/preview.html?image=/logos/pocoo_flask/pocoo_flask-icon.svg" />]()
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />]()
+[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/deadshot674gam/INT404/master/pocoo_flask-icon.svg" />]()
+[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />]()
+[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />]()
 
 
 <br />
