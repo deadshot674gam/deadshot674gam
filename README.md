@@ -7,9 +7,9 @@
 
 ## I'm a Student and a Software Developer!!
 
-- 🌱 I’m currently Learning Machine learning
+- 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to improve and code, more and more
-- 🥅 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Create more to Open Source projects
 - ⚡ Fun Fact: I love to cook 
 
 <br />
