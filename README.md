@@ -63,4 +63,5 @@
 <br />
 <br />
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deadshot674gam&repo=github-readme-stats&theme=dracula)
 
