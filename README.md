@@ -47,6 +47,8 @@
 <br />
 <br />
 <br />
+
+
 ### Github Stats:
 
 
@@ -56,7 +58,7 @@
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula)
 
 <br />
 <br />
