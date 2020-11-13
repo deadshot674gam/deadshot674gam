@@ -3,9 +3,9 @@
 
 ## Hi there, I'm 
 
-<br />
 
-   # Divyanshu 🧠
+
+   # <em>Divyanshu 🧠</em>
    
 
 <img align='right' src="https://github.com/deadshot674gam/INT404/blob/master/goku-learning.png" width="230">
