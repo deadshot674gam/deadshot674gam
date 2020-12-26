@@ -64,7 +64,7 @@
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula)
 
 <br />
 <br />
