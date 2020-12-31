@@ -58,7 +58,7 @@
 ### Github Stats:
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=deadshot674gam&theme=dracula&layout=compact)
+![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=deadshot674gam&show_icons=true&theme=darcula)
 
 
 <br />
