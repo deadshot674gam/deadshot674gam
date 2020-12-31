@@ -63,8 +63,7 @@
 
 <br />
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam)](https://github.com/deadshot674gam/github-readme-stats)
 
 <br />
 <br />
