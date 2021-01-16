@@ -68,4 +68,4 @@
 <br />
 
 [![Spotify](https://readme-spotify-na8wjpz62.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
-
+![Spotify](https://readme-spotify-na8wjpz62.vercel.app/api/spotify-playing)
