@@ -1,9 +1,7 @@
 <br />
 
 
-### Hi there, I'm 
-![Spotify](https://readme-spotify-na8wjpz62.vercel.app/api/spotify-playing)
-
+### Hi there, I'm
 
    # <em>Divyanshu 🧠</em>
    
@@ -66,5 +64,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&count_private=true)](https://github.com/deadshot674gam/github-readme-stats) 
 
 <br />
- [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
+
+
+<br />
 [![Spotify](https://readme-spotify-na8wjpz62.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
