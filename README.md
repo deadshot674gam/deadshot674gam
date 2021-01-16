@@ -67,6 +67,5 @@
 
 <br />
 
-
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
+[![Spotify](http://new-px9xo8di7.vercel.app//api/spotify)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
 <br />
