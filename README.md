@@ -63,9 +63,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&count_private=true)](https://github.com/deadshot674gam/github-readme-stats) 
 
-<br />
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
+<br />[![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674gam&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<br />
-[![Spotify](https://readme-spotify-na8wjpz62.vercel.app/api/spotify-playing)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
