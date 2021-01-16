@@ -66,4 +66,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&count_private=true)](https://github.com/deadshot674gam/github-readme-stats) 
 
 <br />
+
+<iframe src="https://open.spotify.com/embed/track/7vGuf3Y35N4wmASOKLUVVU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe><iframe src="https://open.spotify.com/embed/track/7vGuf3Y35N4wmASOKLUVVU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 <br />
