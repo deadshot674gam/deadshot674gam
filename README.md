@@ -67,5 +67,5 @@
 
 <br />
 
-[![Spotify](https://readme-spotify.deadshot674gam.vercel.app//api/spotify)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
-<br />
+&nbsp; <br> [![Spotify](https://readme-spotify-na8wjpz62.vercel.app)](https://open.spotify.com/user/omnitenebris)
+
