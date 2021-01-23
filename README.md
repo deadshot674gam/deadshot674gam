@@ -64,6 +64,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&count_private=true)](https://github.com/deadshot674gam/github-readme-stats) 
 
 <br />
-<br />[![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674&theme=dracula&compact=true)]()
+<br />[![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674&theme=dracula)]()
 
 <br />
