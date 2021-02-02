@@ -87,9 +87,5 @@
 ## :headphones: Spotify Playing
 
 
-
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/31ruybw2b6d5ynswe7wsj4w5vaqe)
-
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ruybw2b6d5ynswe7wsj4w5vaqe&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
