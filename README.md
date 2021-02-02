@@ -62,14 +62,21 @@
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&count_private=true&layout=compact&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&count_private=true&layout=compact)
 
 
 <br />
 <br />
 
 
-![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674&theme=dracula&v=2&layout=compact)
+![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674&theme=dracula&v=2&layout=compact&show_icons=true)
 
+
+<br />
+
+
+## Stargazers
+
+![Stargazers repo roster for Divyanshu](https://reporoster.com/stars/deadshot674gam/deadshot674gam)](https://github.com/deadshot674gam/deadshot674gam/stargazers)
 
 <br />
