@@ -77,6 +77,6 @@
 
 ## Stargazers
 
-![Stargazers repo roster for Divyanshu](https://reporoster.com/stars/deadshot674gam/deadshot674gam)](https://github.com/deadshot674gam/deadshot674gam/stargazers)
+[![Stargazers repo roster for Divyanshu](https://reporoster.com/stars/deadshot674gam/deadshot674gam)](https://github.com/deadshot674gam/deadshot674gam/stargazers)
 
 <br />
