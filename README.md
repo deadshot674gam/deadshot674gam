@@ -24,7 +24,6 @@
 
 [<img align="left" alt="Profile | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/your.father.674/)
 [<img align="left" alt="Profile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/divyanshu900674)
-
 [<img align="left" alt="Profile | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14432259/divyanshu-tiwari)
 [<img align="left" alt="Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/divyanshu-tiwari-a9470816b/)
 [<img align="left" alt="Profile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tiwari______/)
@@ -69,7 +68,7 @@
 <br />
 
 
-![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674&theme=dracula&v=2)
+![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674&theme=dracula&v=2&layout=compact)
 
 
 <br />
