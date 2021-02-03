@@ -24,7 +24,7 @@
 
 [<img align="left" alt="Profile | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/your.father.674/)
 [<img align="left" alt="Profile | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/divyanshu900674)
-[<img align="left" alt="Profile | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14432259/divyanshu-tiwari)
+[<img align="left" alt="Profile | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14432259/divyanshu-tiwari)
 [<img align="left" alt="Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/divyanshu-tiwari-a9470816b/)
 [<img align="left" alt="Profile | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/tiwari______/)
 [<img align="left" alt="Profile | Hackkerrank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" />](https://www.hackerrank.com/sunnyt0225)
