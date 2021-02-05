@@ -3,7 +3,7 @@
 
 ## Hi there, I'm
 
-   # <em>Divyanshu 🧠</em>
+   # <em align='right'>Divyanshu 🧠</em>
    
 
 <img align='right' src="https://github.com/deadshot674gam/INT404/blob/master/playstore.png" width="230">
