@@ -74,6 +74,10 @@
 
 <br />
 
+![Visitor Count](https://profile-counter.glitch.me/deadshot674gam/count.svg)
+
+<br />
+
 
 ## :star2: Stargazers
 
