@@ -97,7 +97,7 @@
 <br /> 
 
 
-[awesome-readme-stats](https://github.com/deadshot674/waka-readme-stats)
+[awesome-readme-stats](https://github.com/deadshot674gam/waka-readme-stats)
 
 
 
