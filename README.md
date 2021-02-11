@@ -53,10 +53,10 @@
 <br />
 
 <!--START_SECTION:waka-->
-
-
-
-
+```text
+Python   4 hrs 26 mins   █████████████████████░░░░   84.54 % 
+C++      48 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+```
 <!--END_SECTION:waka-->
 
 ## :chart: Github Stats:
