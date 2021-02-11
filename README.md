@@ -94,18 +94,9 @@ C++      48 mins         ████░░░░░░░░░░░░░░�
 <br />
 
 
-
-
 ## :headphones: Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ruybw2b6d5ynswe7wsj4w5vaqe&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
+
 <br /> 
-
-
-[awesome-readme-stats](https://github.com/deadshot674gam/waka-readme-stats)
-
-
-
-
-<br />
