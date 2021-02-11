@@ -57,7 +57,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%2020lines%2020Kof%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -138,32 +138,15 @@ Java                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <!--
 ## :chart: Github Stats:
-
-
-
 ![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=deadshot674gam&show_icons=true&theme=dracula&count_private=true&layout=compact)
-
-
 <br />
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadshot674gam&theme=dracula&count_private=true&layout=compact)
-
-
 <br />
-
-
 ![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674&theme=dracula&v=2&layout=compact&show_icons=true)
--->
-
-<br />
-
 ## :eyes: Profile Visiters
 ![Visitor Count](https://profile-counter.glitch.me/deadshot674gam/count.svg)
-
-
+-->
 <br />
-
 
 ## :star2: Stargazers
 
@@ -171,10 +154,8 @@ Java                     1 repo              █░░░░░░░░░░�
 
 <br />
 
-
 ## :headphones: Spotify Playing
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ruybw2b6d5ynswe7wsj4w5vaqe&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
 
 <br /> 
