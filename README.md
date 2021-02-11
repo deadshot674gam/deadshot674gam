@@ -58,8 +58,32 @@ Python   14 hrs 56 mins  ██████████████████�
 C++      4 hrs 46 mins   ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
 CSV      41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
-<!--END_SECTION:waka-->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--END_SECTION:waka-->
+<!--
 ## :chart: Github Stats:
 
 
@@ -77,7 +101,7 @@ CSV      41 mins         █░░░░░░░░░░░░░░░░░�
 
 
 ![Divyanshu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deadshot674&theme=dracula&v=2&layout=compact&show_icons=true)
-
+-->
 
 <br />
 
