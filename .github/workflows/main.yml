@@ -22,6 +22,6 @@ jobs:
           SHOW_EDITORS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
-          SHOW_COMMITS: "True"
+          SHOW_COMMIT: "True"
           SHOW_SHORT_INFO: "True"
           SHOW_LOC_CHART: "True" 
