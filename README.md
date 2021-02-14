@@ -55,19 +55,19 @@
 
 ##  Wakatime Weekly Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-208-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 105 Contributions in the Year 2021
+> 🏆 109 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 19 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -124,11 +124,11 @@ Linux                    36 hrs 54 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ██████████████████░░░░░░░   73.68% 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+Python                   14 repos            █████████████████░░░░░░░░   70.0% 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
