@@ -11,7 +11,7 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: deadshot674gam/waka-readme-stats@master
         with:
