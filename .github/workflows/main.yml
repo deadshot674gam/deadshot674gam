@@ -23,4 +23,3 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
           SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True" 
