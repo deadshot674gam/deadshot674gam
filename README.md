@@ -100,17 +100,16 @@ Sunday       9 commits      ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-XML                      0 secs              ██████████████████████░░░   87.95% 
-Java                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CSE Learning Buddy       0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
