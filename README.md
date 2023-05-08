@@ -55,83 +55,8 @@
 
 ##  Wakatime Weekly Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-589003%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 180 Contributions in the Year 2021
- > 
-> 📦 0 Bytes Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    15 commits     ███████░░░░░░░░░░░░░░░░░░   28.3% 
-🌆 Daytime    11 commits     █████░░░░░░░░░░░░░░░░░░░░   20.75% 
-🌃 Evening    12 commits     █████░░░░░░░░░░░░░░░░░░░░   22.64% 
-🌙 Night      15 commits     ███████░░░░░░░░░░░░░░░░░░   28.3%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
-Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
-Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-Thursday     10 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
-Friday       3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
-Saturday     23 commits     ██████████░░░░░░░░░░░░░░░   43.4% 
-Sunday       9 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-XML                      0 secs              █████████████░░░░░░░░░░░░   54.88% 
-Java                     0 secs              ███████████░░░░░░░░░░░░░░   45.12%
-
-🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-CSE Learning Buddy       0 secs              █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   14 repos            █████████████░░░░░░░░░░░░   53.85% 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/deadshot674gam/deadshot674gam/main/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
+
 <!--
 ## :chart: Github Stats:
 ![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=deadshot674gam&show_icons=true&theme=dracula&count_private=true&layout=compact)
